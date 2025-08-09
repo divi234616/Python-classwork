@@ -1,0 +1,1001 @@
+Date,Bread_Type,Store_Location,Quantity_Sold,Unit_Price,Total_Sales
+2024-04-12,Sourdough,Mall,28,4.93,138.04
+2024-12-14,Rye,Mall,30,2.17,65.1
+2024-09-27,Multigrain,Suburb,26,4.27,111.01999999999998
+2024-04-16,Multigrain,Train Station,48,4.68,224.64
+2024-03-12,White,Airport,21,4.8,100.8
+2024-07-07,Baguette,Mall,28,4.86,136.08
+2024-01-21,Whole Wheat,Train Station,26,3.33,86.58
+2024-04-12,Whole Wheat,Suburb,33,4.92,162.35999999999999
+2024-05-01,Rye,Train Station,21,4.15,87.15
+2024-08-02,Whole Wheat,Downtown,35,2.07,72.44999999999999
+2024-11-26,Sourdough,Mall,34,3.17,107.78
+2024-03-28,Whole Wheat,Suburb,41,4.01,164.41
+2024-04-09,Rye,Airport,47,2.37,111.39
+2024-12-25,Whole Wheat,Suburb,18,3.74,67.32000000000001
+2024-05-31,Sourdough,Airport,11,3.83,42.13
+2024-05-10,White,Suburb,23,2.07,47.61
+2024-05-29,Rye,Train Station,48,3.48,167.04
+2024-11-04,White,Train Station,22,4.2,92.4
+2024-09-14,White,Train Station,17,3.25,55.25
+2024-12-09,White,Downtown,5,1.54,7.7
+2024-10-20,Multigrain,Airport,44,1.53,67.32000000000001
+2024-07-10,Baguette,Train Station,11,2.75,30.25
+2024-10-03,Multigrain,Downtown,30,4.74,142.20000000000002
+2024-06-09,Baguette,Airport,15,2.3,34.5
+2024-11-09,White,Suburb,27,3.72,100.44000000000001
+2024-01-22,Rye,Downtown,35,2.28,79.8
+2024-09-09,Baguette,Mall,33,2.63,86.78999999999999
+2024-08-23,Sourdough,Downtown,20,4.47,89.39999999999999
+2024-12-10,Sourdough,Downtown,16,4.05,64.8
+2024-02-18,Whole Wheat,Airport,34,1.83,62.22
+2024-02-28,Baguette,Suburb,2,3.0,6.0
+2024-06-18,Rye,Mall,35,1.6,56.0
+2024-07-06,Multigrain,Train Station,40,3.18,127.2
+2024-09-27,White,Train Station,28,3.82,106.96
+2024-07-08,Whole Wheat,Downtown,47,1.91,89.77
+2024-06-23,Sourdough,Airport,39,2.51,97.88999999999999
+2024-02-20,Multigrain,Airport,6,2.89,17.34
+2024-12-29,Multigrain,Train Station,9,4.72,42.48
+2024-02-24,White,Mall,20,4.98,99.60000000000001
+2024-08-31,Baguette,Suburb,1,1.66,1.66
+2024-11-15,Sourdough,Mall,8,4.16,33.28
+2024-05-10,Rye,Suburb,23,2.8,64.39999999999999
+2024-11-02,Multigrain,Train Station,3,2.87,8.61
+2024-05-14,White,Suburb,4,4.14,16.56
+2024-01-21,Rye,Airport,25,4.71,117.75
+2024-11-24,Baguette,Downtown,47,4.83,227.01
+2024-06-15,Sourdough,Downtown,38,3.52,133.76
+2024-09-30,Baguette,Train Station,15,2.75,41.25
+2024-03-29,Multigrain,Airport,21,4.26,89.46
+2024-11-11,Rye,Mall,35,2.38,83.3
+2024-01-14,Rye,Airport,46,3.47,159.62
+2024-08-29,Rye,Downtown,14,2.76,38.64
+2024-09-21,Multigrain,Downtown,36,3.8,136.79999999999998
+2024-12-11,Multigrain,Airport,12,2.34,28.08
+2024-02-22,Baguette,Airport,17,2.17,36.89
+2024-12-05,Whole Wheat,Downtown,39,4.71,183.69
+2024-04-01,Baguette,Mall,9,1.86,16.740000000000002
+2024-09-20,Sourdough,Train Station,35,3.27,114.45
+2024-02-04,White,Train Station,13,2.27,29.51
+2024-07-24,Rye,Airport,15,1.64,24.599999999999998
+2024-03-21,Whole Wheat,Train Station,18,1.63,29.339999999999996
+2024-02-19,White,Downtown,33,2.11,69.63
+2024-12-25,Whole Wheat,Downtown,6,4.53,27.18
+2024-01-02,Baguette,Airport,27,2.49,67.23
+2024-02-23,Multigrain,Airport,23,4.83,111.09
+2024-04-15,Rye,Airport,27,3.54,95.58
+2024-09-16,Baguette,Mall,34,3.03,103.02
+2024-11-05,White,Train Station,46,3.53,162.38
+2024-07-09,White,Airport,38,3.31,125.78
+2024-08-05,White,Suburb,14,4.16,58.24
+2024-02-13,White,Suburb,36,2.49,89.64000000000001
+2024-06-10,White,Downtown,8,2.74,21.92
+2024-07-20,Whole Wheat,Train Station,35,4.63,162.04999999999998
+2024-09-26,Baguette,Airport,19,4.81,91.38999999999999
+2024-12-16,Rye,Suburb,30,4.62,138.6
+2024-10-30,Multigrain,Train Station,14,2.97,41.580000000000005
+2024-09-27,Multigrain,Downtown,20,4.23,84.60000000000001
+2024-08-02,Baguette,Mall,49,3.17,155.32999999999998
+2024-09-08,Baguette,Train Station,25,3.24,81.0
+2024-07-08,Multigrain,Train Station,40,2.22,88.80000000000001
+2024-10-22,Multigrain,Mall,24,3.57,85.67999999999999
+2024-07-31,Whole Wheat,Train Station,14,2.15,30.099999999999998
+2024-07-26,Sourdough,Downtown,26,2.66,69.16
+2024-08-24,Rye,Downtown,38,4.49,170.62
+2024-12-03,White,Mall,23,2.22,51.06
+2024-02-22,Sourdough,Airport,22,1.75,38.5
+2024-10-06,Baguette,Suburb,48,1.74,83.52
+2024-08-04,Multigrain,Airport,19,4.79,91.01
+2024-09-08,Sourdough,Train Station,46,3.27,150.42
+2024-07-06,Rye,Suburb,3,2.93,8.790000000000001
+2024-02-10,Baguette,Mall,42,4.34,182.28
+2024-06-05,White,Mall,19,4.43,84.16999999999999
+2024-01-15,White,Suburb,9,2.66,23.94
+2024-10-27,Rye,Downtown,28,3.93,110.04
+2024-03-05,Rye,Suburb,20,4.2,84.0
+2024-12-10,Multigrain,Train Station,45,3.79,170.55
+2024-11-22,White,Downtown,7,2.03,14.209999999999999
+2024-01-09,Baguette,Mall,14,4.57,63.980000000000004
+2024-12-09,Sourdough,Suburb,9,3.39,30.51
+2024-05-08,Baguette,Airport,19,2.49,47.31
+2024-05-15,Whole Wheat,Airport,47,2.99,140.53
+2024-03-03,Whole Wheat,Train Station,14,1.63,22.82
+2024-05-18,Rye,Airport,38,1.95,74.1
+2024-03-21,Multigrain,Suburb,36,4.18,150.48
+2024-06-11,Whole Wheat,Suburb,40,1.5,60.0
+2024-10-15,White,Airport,17,2.96,50.32
+2024-09-17,Baguette,Suburb,30,3.33,99.9
+2024-08-18,Baguette,Train Station,9,1.69,15.209999999999999
+2024-02-10,Rye,Downtown,33,4.91,162.03
+2024-01-28,Sourdough,Train Station,25,2.29,57.25
+2024-05-14,Rye,Train Station,14,2.56,35.84
+2024-07-19,Sourdough,Suburb,11,2.56,28.16
+2024-11-23,Rye,Downtown,35,2.31,80.85000000000001
+2024-09-24,Rye,Suburb,41,1.51,61.910000000000004
+2024-02-02,Rye,Mall,14,4.05,56.699999999999996
+2024-02-17,Sourdough,Suburb,30,4.88,146.4
+2024-03-02,Sourdough,Suburb,41,2.29,93.89
+2024-08-03,Rye,Suburb,4,3.82,15.28
+2024-10-19,Whole Wheat,Downtown,4,4.1,16.4
+2024-04-08,Multigrain,Suburb,28,4.47,125.16
+2024-06-20,Multigrain,Downtown,8,2.98,23.84
+2024-12-25,Multigrain,Airport,2,2.56,5.12
+2024-08-01,Sourdough,Mall,41,2.64,108.24000000000001
+2024-02-04,Sourdough,Downtown,46,3.99,183.54000000000002
+2024-08-14,Whole Wheat,Airport,22,4.36,95.92
+2024-04-10,Multigrain,Downtown,41,2.14,87.74000000000001
+2024-05-10,Multigrain,Downtown,16,2.8,44.8
+2024-09-13,Rye,Mall,29,4.66,135.14000000000001
+2024-01-05,Sourdough,Train Station,49,4.32,211.68
+2024-08-05,Multigrain,Train Station,48,4.95,237.60000000000002
+2024-09-11,Baguette,Downtown,30,4.14,124.19999999999999
+2024-12-24,Whole Wheat,Suburb,12,2.88,34.56
+2024-10-09,Baguette,Airport,35,3.57,124.94999999999999
+2024-07-25,Baguette,Suburb,11,3.81,41.910000000000004
+2024-01-15,Whole Wheat,Suburb,46,1.77,81.42
+2024-12-11,Baguette,Downtown,21,3.41,71.61
+2024-02-11,Multigrain,Downtown,21,3.98,83.58
+2024-06-27,Sourdough,Downtown,5,2.09,10.45
+2024-03-03,Whole Wheat,Downtown,48,4.23,203.04000000000002
+2024-12-17,Rye,Train Station,20,3.54,70.8
+2024-08-18,Baguette,Downtown,37,4.83,178.71
+2024-08-28,Whole Wheat,Train Station,3,1.65,4.949999999999999
+2024-02-21,White,Train Station,44,2.43,106.92
+2024-04-05,White,Downtown,33,3.61,119.13
+2024-08-09,Sourdough,Mall,9,2.54,22.86
+2024-08-18,Multigrain,Airport,9,4.0,36.0
+2024-08-24,Sourdough,Suburb,4,4.16,16.64
+2024-05-22,Sourdough,Train Station,35,1.86,65.10000000000001
+2024-06-19,Sourdough,Airport,17,3.3,56.099999999999994
+2024-01-29,Sourdough,Mall,34,3.28,111.52
+2024-02-05,Rye,Suburb,24,2.79,66.96000000000001
+2024-01-13,Rye,Suburb,32,4.77,152.64
+2024-06-08,Whole Wheat,Train Station,1,4.4,4.4
+2024-11-22,White,Downtown,8,3.94,31.52
+2024-07-05,Sourdough,Mall,45,4.0,180.0
+2024-08-30,Whole Wheat,Train Station,23,3.12,71.76
+2024-03-26,White,Mall,47,4.72,221.83999999999997
+2024-10-10,Baguette,Downtown,40,3.93,157.20000000000002
+2024-03-06,Multigrain,Downtown,12,4.05,48.599999999999994
+2024-06-18,Rye,Train Station,12,4.52,54.239999999999995
+2024-02-14,Baguette,Downtown,46,2.46,113.16
+2024-03-02,White,Airport,47,4.32,203.04000000000002
+2024-05-13,Baguette,Suburb,15,2.18,32.7
+2024-10-10,Multigrain,Train Station,41,2.71,111.11
+2024-01-28,White,Mall,19,2.67,50.73
+2024-04-17,Baguette,Airport,26,4.92,127.92
+2024-02-13,Rye,Train Station,29,4.5,130.5
+2024-12-05,Rye,Downtown,22,3.95,86.9
+2024-10-12,Whole Wheat,Downtown,40,4.04,161.6
+2024-11-26,Baguette,Downtown,21,3.47,72.87
+2024-05-07,Sourdough,Downtown,38,4.81,182.77999999999997
+2024-12-13,Baguette,Mall,20,3.24,64.80000000000001
+2024-08-18,White,Airport,29,2.83,82.07000000000001
+2024-07-08,White,Suburb,4,2.07,8.28
+2024-08-12,Baguette,Mall,7,4.25,29.75
+2024-10-09,Multigrain,Mall,28,4.07,113.96000000000001
+2024-04-30,Rye,Suburb,28,2.85,79.8
+2024-04-25,White,Suburb,4,1.59,6.36
+2024-08-20,Rye,Downtown,22,4.44,97.68
+2024-09-15,White,Mall,12,1.54,18.48
+2024-12-24,Whole Wheat,Train Station,45,3.96,178.2
+2024-07-16,Sourdough,Suburb,3,4.9,14.700000000000001
+2024-05-16,White,Suburb,22,3.03,66.66
+2024-11-13,Rye,Airport,44,2.32,102.08
+2024-06-13,Whole Wheat,Train Station,2,3.97,7.94
+2024-08-12,White,Train Station,24,4.36,104.64000000000001
+2024-11-02,Multigrain,Suburb,34,3.41,115.94
+2024-08-21,Sourdough,Downtown,27,4.88,131.76
+2024-06-20,White,Airport,41,1.68,68.88
+2024-05-31,Whole Wheat,Train Station,1,3.27,3.27
+2024-11-10,Multigrain,Suburb,8,4.01,32.08
+2024-06-08,Baguette,Train Station,23,4.52,103.96
+2024-04-05,Whole Wheat,Airport,38,2.13,80.94
+2024-08-20,Whole Wheat,Airport,6,4.3,25.799999999999997
+2024-06-28,Multigrain,Mall,22,3.43,75.46000000000001
+2024-04-22,Whole Wheat,Suburb,25,2.89,72.25
+2024-11-13,Multigrain,Airport,18,1.96,35.28
+2024-02-21,White,Mall,17,4.53,77.01
+2024-09-24,Multigrain,Mall,12,2.05,24.599999999999998
+2024-10-21,Multigrain,Train Station,6,2.58,15.48
+2024-04-22,Sourdough,Train Station,26,2.52,65.52
+2024-04-10,Multigrain,Mall,27,4.55,122.85
+2024-04-22,Multigrain,Train Station,8,3.85,30.8
+2024-03-21,Baguette,Airport,19,4.29,81.51
+2024-07-05,White,Downtown,42,2.38,99.96
+2024-04-22,Sourdough,Airport,1,3.69,3.69
+2024-01-02,Baguette,Mall,29,3.5,101.5
+2024-05-09,Rye,Mall,45,4.41,198.45000000000002
+2024-08-07,White,Airport,49,4.67,228.82999999999998
+2024-02-23,White,Train Station,35,1.54,53.9
+2024-12-08,Rye,Train Station,40,3.86,154.4
+2024-08-11,Multigrain,Mall,14,1.68,23.52
+2024-08-12,Baguette,Suburb,35,3.42,119.7
+2024-05-05,Whole Wheat,Train Station,48,2.51,120.47999999999999
+2024-05-09,Sourdough,Airport,45,2.57,115.64999999999999
+2024-02-22,Whole Wheat,Train Station,20,2.74,54.800000000000004
+2024-06-20,Rye,Airport,49,3.67,179.82999999999998
+2024-08-05,White,Mall,13,2.67,34.71
+2024-06-08,White,Train Station,38,4.06,154.27999999999997
+2024-07-16,Sourdough,Airport,49,2.92,143.07999999999998
+2024-09-03,White,Mall,46,1.74,80.04
+2024-11-19,White,Suburb,49,4.24,207.76000000000002
+2024-07-21,Sourdough,Airport,8,2.5,20.0
+2024-07-02,Baguette,Suburb,43,3.01,129.42999999999998
+2024-05-02,Baguette,Suburb,20,3.9,78.0
+2024-09-11,Sourdough,Downtown,33,2.66,87.78
+2024-10-20,Rye,Train Station,26,1.7,44.199999999999996
+2024-10-06,White,Airport,39,2.81,109.59
+2024-11-20,White,Suburb,21,4.81,101.00999999999999
+2024-04-07,Rye,Downtown,49,3.75,183.75
+2024-07-16,Baguette,Mall,42,3.85,161.70000000000002
+2024-08-27,Multigrain,Airport,43,3.71,159.53
+2024-05-23,Multigrain,Suburb,41,2.2,90.2
+2024-04-06,Multigrain,Train Station,9,2.96,26.64
+2024-07-19,Baguette,Downtown,24,4.13,99.12
+2024-05-03,Baguette,Suburb,37,1.85,68.45
+2024-07-05,Rye,Train Station,49,2.47,121.03000000000002
+2024-11-21,White,Suburb,41,2.47,101.27000000000001
+2024-12-14,Rye,Airport,17,3.01,51.169999999999995
+2024-09-15,Rye,Airport,24,4.93,118.32
+2024-05-27,Baguette,Airport,21,1.74,36.54
+2024-09-08,Multigrain,Downtown,39,3.32,129.48
+2024-12-11,Whole Wheat,Airport,41,2.13,87.33
+2024-05-26,White,Train Station,39,4.9,191.10000000000002
+2024-05-27,Baguette,Suburb,13,1.9,24.7
+2024-12-17,Multigrain,Mall,11,2.91,32.010000000000005
+2024-07-17,Whole Wheat,Train Station,46,4.08,187.68
+2024-11-03,Whole Wheat,Train Station,19,3.97,75.43
+2024-05-07,Baguette,Airport,11,2.98,32.78
+2024-02-08,Sourdough,Downtown,13,2.71,35.23
+2024-12-03,White,Suburb,46,2.89,132.94
+2024-12-25,Whole Wheat,Downtown,45,2.42,108.89999999999999
+2024-05-08,Baguette,Suburb,1,2.22,2.22
+2024-09-23,Baguette,Suburb,40,3.19,127.6
+2024-05-30,Multigrain,Downtown,44,2.44,107.36
+2024-10-24,Sourdough,Train Station,19,2.51,47.69
+2024-04-08,White,Suburb,12,3.8,45.599999999999994
+2024-09-19,Rye,Downtown,8,4.89,39.12
+2024-09-08,Multigrain,Suburb,8,3.61,28.88
+2024-05-23,Whole Wheat,Mall,45,1.77,79.65
+2024-12-11,Whole Wheat,Train Station,12,1.76,21.12
+2024-04-21,Multigrain,Airport,48,4.83,231.84
+2024-02-29,Baguette,Suburb,33,2.54,83.82000000000001
+2024-01-02,Whole Wheat,Mall,45,1.82,81.9
+2024-10-30,Sourdough,Airport,26,3.6,93.60000000000001
+2024-09-10,White,Airport,39,3.68,143.52
+2024-05-19,Sourdough,Suburb,28,3.77,105.56
+2024-02-06,Whole Wheat,Downtown,5,2.44,12.2
+2024-06-08,Rye,Suburb,8,1.55,12.4
+2024-01-09,White,Mall,25,4.88,122.0
+2024-08-20,White,Airport,27,2.38,64.25999999999999
+2024-04-08,Multigrain,Suburb,46,3.87,178.02
+2024-05-26,Multigrain,Downtown,23,3.97,91.31
+2024-10-30,Rye,Suburb,30,3.64,109.2
+2024-07-26,Baguette,Train Station,45,2.6,117.0
+2024-05-10,White,Downtown,47,2.45,115.15
+2024-05-31,Rye,Mall,23,3.59,82.57
+2024-02-23,Multigrain,Airport,49,4.53,221.97
+2024-04-29,Multigrain,Suburb,47,4.81,226.07
+2024-06-09,White,Downtown,20,1.87,37.400000000000006
+2024-04-25,Sourdough,Train Station,18,2.04,36.72
+2024-03-15,Whole Wheat,Downtown,18,4.81,86.58
+2024-04-22,Multigrain,Train Station,2,4.08,8.16
+2024-04-13,Baguette,Mall,4,4.59,18.36
+2024-12-05,Baguette,Airport,30,2.21,66.3
+2024-09-10,Multigrain,Mall,33,3.56,117.48
+2024-08-14,Sourdough,Suburb,36,3.95,142.20000000000002
+2024-04-21,Sourdough,Downtown,18,3.88,69.84
+2024-04-08,Rye,Train Station,37,2.93,108.41000000000001
+2024-06-01,Baguette,Train Station,19,1.55,29.45
+2024-12-14,Rye,Downtown,47,3.54,166.38
+2024-12-31,Baguette,Downtown,28,2.39,66.92
+2024-12-03,Whole Wheat,Suburb,40,3.08,123.2
+2024-07-12,Whole Wheat,Mall,20,4.85,97.0
+2024-11-05,White,Train Station,49,2.9,142.1
+2024-06-11,Rye,Suburb,33,4.44,146.52
+2024-07-26,Multigrain,Mall,12,2.16,25.92
+2024-06-17,Rye,Suburb,15,3.85,57.75
+2024-06-09,Multigrain,Train Station,41,4.92,201.72
+2024-03-08,Sourdough,Downtown,39,1.86,72.54
+2024-10-15,Rye,Downtown,2,1.53,3.06
+2024-10-03,Sourdough,Mall,29,3.02,87.58
+2024-10-30,Whole Wheat,Airport,41,1.82,74.62
+2024-05-14,Whole Wheat,Mall,10,4.12,41.2
+2024-07-13,White,Airport,2,4.7,9.4
+2024-05-07,Rye,Suburb,11,3.02,33.22
+2024-02-02,Sourdough,Suburb,13,2.41,31.330000000000002
+2024-06-24,Multigrain,Train Station,10,3.02,30.2
+2024-01-22,Whole Wheat,Airport,14,4.03,56.42
+2024-08-25,Whole Wheat,Train Station,18,1.53,27.54
+2024-06-06,Multigrain,Downtown,9,3.56,32.04
+2024-02-07,Sourdough,Airport,39,3.65,142.35
+2024-08-17,Sourdough,Mall,28,3.73,104.44
+2024-12-30,Rye,Downtown,3,2.35,7.050000000000001
+2024-02-20,Rye,Downtown,20,4.0,80.0
+2024-09-20,Baguette,Mall,6,1.82,10.92
+2024-10-09,Baguette,Downtown,27,2.2,59.400000000000006
+2024-01-27,White,Airport,2,4.57,9.14
+2024-08-13,Whole Wheat,Train Station,29,4.09,118.61
+2024-10-03,Rye,Downtown,38,1.55,58.9
+2024-10-12,Sourdough,Airport,3,2.37,7.11
+2024-04-06,Multigrain,Suburb,16,2.25,36.0
+2024-10-10,Sourdough,Airport,30,2.45,73.5
+2024-11-12,Whole Wheat,Train Station,40,2.37,94.80000000000001
+2024-10-30,Baguette,Airport,2,1.72,3.44
+2024-05-26,Sourdough,Mall,17,3.11,52.87
+2024-01-04,White,Train Station,41,4.06,166.45999999999998
+2024-02-04,Whole Wheat,Suburb,12,3.62,43.44
+2024-07-10,Baguette,Mall,35,3.86,135.1
+2024-02-18,Multigrain,Airport,43,1.78,76.54
+2024-01-17,Baguette,Train Station,1,4.83,4.83
+2024-06-20,White,Suburb,45,4.43,199.35
+2024-08-07,Whole Wheat,Mall,15,4.32,64.80000000000001
+2024-06-06,Multigrain,Suburb,26,4.38,113.88
+2024-02-15,White,Airport,37,4.76,176.12
+2024-01-06,Baguette,Suburb,21,3.4,71.39999999999999
+2024-04-08,White,Downtown,49,2.2,107.80000000000001
+2024-08-20,Whole Wheat,Mall,31,3.66,113.46000000000001
+2024-02-06,Rye,Suburb,25,4.1,102.49999999999999
+2024-10-06,White,Airport,23,4.08,93.84
+2024-12-14,White,Airport,24,3.33,79.92
+2024-10-28,Baguette,Suburb,38,1.74,66.12
+2024-06-29,Baguette,Airport,28,2.8,78.39999999999999
+2024-04-04,Multigrain,Train Station,21,4.72,99.11999999999999
+2024-04-08,Baguette,Train Station,43,3.55,152.65
+2024-07-06,Sourdough,Train Station,18,3.38,60.839999999999996
+2024-04-25,Whole Wheat,Downtown,36,2.44,87.84
+2024-07-09,Whole Wheat,Suburb,35,2.79,97.65
+2024-09-09,Rye,Downtown,45,4.63,208.35
+2024-06-09,Rye,Airport,9,3.83,34.47
+2024-09-12,Whole Wheat,Downtown,38,4.26,161.88
+2024-11-18,Rye,Airport,30,3.09,92.69999999999999
+2024-05-07,Multigrain,Airport,44,3.71,163.24
+2024-01-18,Baguette,Mall,34,2.37,80.58
+2024-10-07,Whole Wheat,Train Station,32,3.97,127.04
+2024-08-10,Rye,Airport,3,3.0,9.0
+2024-02-23,Whole Wheat,Mall,3,3.05,9.149999999999999
+2024-02-27,Sourdough,Train Station,28,3.77,105.56
+2024-11-18,White,Airport,44,4.78,210.32000000000002
+2024-12-25,Baguette,Airport,15,1.72,25.8
+2024-06-22,Whole Wheat,Downtown,41,4.39,179.98999999999998
+2024-10-06,White,Downtown,23,2.52,57.96
+2024-04-23,Rye,Train Station,40,3.05,122.0
+2024-10-14,White,Airport,11,1.58,17.380000000000003
+2024-12-07,Baguette,Suburb,48,2.55,122.39999999999999
+2024-05-30,Whole Wheat,Downtown,32,3.26,104.32
+2024-05-06,Sourdough,Train Station,36,1.7,61.199999999999996
+2024-06-03,Rye,Airport,33,3.22,106.26
+2024-09-29,Whole Wheat,Airport,24,4.74,113.76
+2024-04-13,Baguette,Suburb,39,1.87,72.93
+2024-10-25,Rye,Train Station,34,4.18,142.12
+2024-09-02,Multigrain,Airport,28,2.93,82.04
+2024-06-24,White,Downtown,37,3.79,140.23
+2024-02-08,Baguette,Suburb,7,2.41,16.87
+2024-06-18,Multigrain,Train Station,4,2.06,8.24
+2024-09-03,Whole Wheat,Suburb,37,2.06,76.22
+2024-01-26,Sourdough,Downtown,1,1.75,1.75
+2024-12-20,Rye,Train Station,1,2.15,2.15
+2024-11-01,White,Suburb,47,3.82,179.54
+2024-01-13,Rye,Mall,20,4.59,91.8
+2024-11-11,Whole Wheat,Downtown,19,4.35,82.64999999999999
+2024-11-08,Rye,Downtown,29,3.9,113.1
+2024-02-05,White,Downtown,10,1.89,18.9
+2024-06-21,Whole Wheat,Mall,18,2.51,45.17999999999999
+2024-01-20,Rye,Mall,28,2.58,72.24000000000001
+2024-11-16,Sourdough,Airport,35,2.37,82.95
+2024-09-20,Baguette,Suburb,43,3.3,141.9
+2024-05-21,Whole Wheat,Airport,47,3.37,158.39000000000001
+2024-05-22,Baguette,Suburb,31,2.75,85.25
+2024-04-01,Whole Wheat,Mall,27,2.74,73.98
+2024-12-19,Sourdough,Mall,11,4.4,48.400000000000006
+2024-11-17,Baguette,Airport,49,4.26,208.73999999999998
+2024-10-14,Multigrain,Train Station,49,2.58,126.42
+2024-08-02,White,Airport,38,4.7,178.6
+2024-12-07,Multigrain,Suburb,5,4.83,24.15
+2024-02-20,Rye,Airport,8,2.64,21.12
+2024-06-01,Sourdough,Downtown,34,2.74,93.16000000000001
+2024-07-04,Multigrain,Suburb,48,3.27,156.96
+2024-03-03,Whole Wheat,Suburb,12,4.79,57.480000000000004
+2024-07-08,Rye,Train Station,38,4.57,173.66000000000003
+2024-05-04,Rye,Mall,1,1.86,1.86
+2024-05-29,Multigrain,Suburb,31,2.87,88.97
+2024-11-09,Multigrain,Mall,4,3.44,13.76
+2024-02-27,Sourdough,Airport,49,3.26,159.73999999999998
+2024-12-07,White,Downtown,45,2.18,98.10000000000001
+2024-10-31,Multigrain,Train Station,5,4.51,22.549999999999997
+2024-06-28,Multigrain,Mall,30,3.87,116.10000000000001
+2024-06-18,Baguette,Suburb,24,4.43,106.32
+2024-11-21,Whole Wheat,Mall,3,4.51,13.53
+2024-09-27,Baguette,Suburb,11,4.12,45.32
+2024-02-23,Baguette,Mall,45,3.04,136.8
+2024-04-10,Rye,Suburb,4,3.64,14.56
+2024-09-20,White,Airport,26,2.06,53.56
+2024-02-22,Whole Wheat,Suburb,27,3.86,104.22
+2024-02-29,Sourdough,Suburb,46,2.13,97.97999999999999
+2024-04-17,Sourdough,Downtown,43,3.93,168.99
+2024-01-05,Multigrain,Suburb,27,2.3,62.099999999999994
+2024-04-12,Multigrain,Downtown,42,1.91,80.22
+2024-07-14,Sourdough,Train Station,6,2.08,12.48
+2024-09-18,Multigrain,Downtown,15,1.51,22.65
+2024-12-30,White,Airport,30,4.02,120.6
+2024-12-15,Baguette,Downtown,42,4.06,170.51999999999998
+2024-02-16,Multigrain,Train Station,37,3.3,122.1
+2024-12-20,Rye,Airport,37,2.06,76.22
+2024-11-06,Multigrain,Mall,42,1.79,75.18
+2024-11-03,Whole Wheat,Mall,37,1.57,58.09
+2024-05-23,White,Downtown,35,2.08,72.8
+2024-09-25,Whole Wheat,Downtown,23,4.62,106.26
+2024-05-03,Whole Wheat,Train Station,6,2.35,14.100000000000001
+2024-04-15,Rye,Train Station,4,2.74,10.96
+2024-06-06,White,Suburb,18,1.87,33.660000000000004
+2024-05-26,White,Train Station,9,2.28,20.52
+2024-05-24,White,Suburb,49,3.32,162.67999999999998
+2024-04-29,White,Airport,29,3.63,105.27
+2024-11-14,White,Downtown,13,2.36,30.68
+2024-10-01,Rye,Airport,47,1.7,79.89999999999999
+2024-04-01,Multigrain,Train Station,17,2.87,48.79
+2024-02-27,Whole Wheat,Airport,45,2.32,104.39999999999999
+2024-12-11,White,Airport,32,2.27,72.64
+2024-08-16,Multigrain,Airport,48,4.86,233.28000000000003
+2024-04-26,Multigrain,Train Station,22,3.66,80.52000000000001
+2024-11-13,Whole Wheat,Airport,4,3.45,13.8
+2024-10-05,Rye,Suburb,5,2.96,14.8
+2024-05-06,Sourdough,Train Station,37,3.0,111.0
+2024-05-08,Sourdough,Airport,41,3.39,138.99
+2024-02-27,Multigrain,Train Station,49,3.94,193.06
+2024-05-01,Baguette,Mall,13,3.96,51.48
+2024-01-01,Baguette,Suburb,34,2.1,71.4
+2024-08-26,Whole Wheat,Airport,45,3.25,146.25
+2024-10-16,Sourdough,Mall,22,2.94,64.67999999999999
+2024-04-05,Multigrain,Mall,23,4.55,104.64999999999999
+2024-05-05,Rye,Train Station,3,3.71,11.129999999999999
+2024-04-27,Sourdough,Mall,42,3.36,141.12
+2024-02-17,Multigrain,Suburb,34,1.9,64.6
+2024-03-29,Multigrain,Suburb,32,3.62,115.84
+2024-08-24,White,Downtown,45,1.91,85.95
+2024-09-28,Rye,Suburb,49,2.68,131.32000000000002
+2024-07-07,White,Mall,21,2.0,42.0
+2024-07-10,Whole Wheat,Suburb,46,3.92,180.32
+2024-03-09,White,Train Station,44,2.22,97.68
+2024-10-04,White,Downtown,21,2.87,60.27
+2024-12-14,Sourdough,Mall,44,4.63,203.72
+2024-09-03,Baguette,Downtown,11,2.22,24.42
+2024-03-16,Multigrain,Mall,39,3.28,127.91999999999999
+2024-06-02,Rye,Train Station,4,2.97,11.88
+2024-05-23,White,Downtown,1,1.56,1.56
+2024-03-26,Rye,Airport,28,4.27,119.55999999999999
+2024-07-03,Baguette,Mall,24,1.74,41.76
+2024-10-11,Baguette,Airport,35,3.16,110.60000000000001
+2024-08-07,White,Downtown,13,3.46,44.98
+2024-03-09,Whole Wheat,Airport,47,3.7,173.9
+2024-02-16,White,Airport,34,3.91,132.94
+2024-04-03,Sourdough,Downtown,11,2.39,26.290000000000003
+2024-08-25,Multigrain,Train Station,36,1.53,55.08
+2024-07-22,Whole Wheat,Airport,17,4.03,68.51
+2024-08-05,White,Airport,35,3.37,117.95
+2024-12-06,Rye,Train Station,18,4.43,79.74
+2024-02-08,Whole Wheat,Airport,40,4.37,174.8
+2024-04-09,Whole Wheat,Airport,22,4.45,97.9
+2024-10-15,White,Airport,24,3.2,76.80000000000001
+2024-09-10,Whole Wheat,Suburb,19,2.67,50.73
+2024-08-09,Rye,Train Station,37,4.27,157.98999999999998
+2024-12-22,Baguette,Airport,39,3.08,120.12
+2024-01-23,Whole Wheat,Train Station,21,2.14,44.940000000000005
+2024-09-06,Baguette,Mall,8,4.49,35.92
+2024-01-10,Rye,Mall,28,4.59,128.51999999999998
+2024-09-02,White,Airport,5,3.13,15.649999999999999
+2024-11-20,Multigrain,Train Station,17,1.76,29.92
+2024-04-09,Whole Wheat,Train Station,37,2.86,105.82
+2024-10-16,Multigrain,Train Station,36,4.31,155.16
+2024-06-28,Rye,Suburb,19,4.66,88.54
+2024-08-10,Whole Wheat,Mall,27,2.21,59.67
+2024-09-06,Baguette,Train Station,34,1.73,58.82
+2024-05-26,Sourdough,Train Station,11,4.57,50.27
+2024-04-05,Multigrain,Suburb,45,2.86,128.7
+2024-09-13,Whole Wheat,Suburb,47,3.4,159.79999999999998
+2024-11-20,Multigrain,Train Station,12,4.89,58.67999999999999
+2024-01-04,Whole Wheat,Downtown,21,1.73,36.33
+2024-01-16,White,Train Station,11,3.77,41.47
+2024-10-06,Baguette,Train Station,39,1.76,68.64
+2024-12-01,Multigrain,Suburb,28,2.81,78.68
+2024-09-03,Sourdough,Suburb,5,4.31,21.549999999999997
+2024-09-14,Sourdough,Train Station,17,3.02,51.34
+2024-06-08,Rye,Train Station,20,4.99,99.80000000000001
+2024-12-05,Whole Wheat,Train Station,41,3.46,141.85999999999999
+2024-05-31,Multigrain,Suburb,46,2.62,120.52000000000001
+2024-06-26,Rye,Train Station,12,2.27,27.240000000000002
+2024-06-11,Multigrain,Train Station,6,2.73,16.38
+2024-02-02,Whole Wheat,Airport,17,2.8,47.599999999999994
+2024-06-27,Sourdough,Downtown,19,1.74,33.06
+2024-04-10,White,Mall,26,2.79,72.54
+2024-09-24,Sourdough,Downtown,48,3.12,149.76
+2024-11-18,Rye,Airport,44,4.03,177.32000000000002
+2024-03-05,Baguette,Mall,44,3.8,167.2
+2024-06-16,White,Train Station,32,3.98,127.36
+2024-11-25,Rye,Airport,6,1.53,9.18
+2024-02-12,Whole Wheat,Train Station,36,2.26,81.35999999999999
+2024-02-13,White,Suburb,38,3.82,145.16
+2024-10-11,Rye,Airport,11,3.19,35.089999999999996
+2024-01-12,Whole Wheat,Suburb,33,1.52,50.160000000000004
+2024-04-04,Sourdough,Airport,24,4.32,103.68
+2024-10-28,Baguette,Airport,23,4.2,96.60000000000001
+2024-09-09,Whole Wheat,Suburb,15,3.42,51.3
+2024-08-29,Multigrain,Mall,27,1.73,46.71
+2024-02-04,Whole Wheat,Downtown,11,4.18,45.98
+2024-08-02,Whole Wheat,Train Station,17,3.54,60.18
+2024-12-02,Baguette,Airport,14,4.24,59.36
+2024-03-30,Multigrain,Train Station,27,4.13,111.50999999999999
+2024-09-20,Rye,Suburb,18,4.31,77.58
+2024-04-02,Rye,Train Station,28,3.31,92.68
+2024-03-30,Whole Wheat,Suburb,47,1.99,93.53
+2024-04-24,Multigrain,Train Station,47,3.85,180.95000000000002
+2024-04-14,Multigrain,Downtown,4,3.67,14.68
+2024-07-14,Baguette,Downtown,7,4.1,28.699999999999996
+2024-11-09,Sourdough,Downtown,45,2.09,94.05
+2024-04-23,Rye,Downtown,35,2.18,76.30000000000001
+2024-03-15,Baguette,Downtown,48,4.62,221.76
+2024-08-04,White,Downtown,9,4.12,37.08
+2024-10-03,Rye,Suburb,8,4.68,37.44
+2024-09-05,Baguette,Airport,45,4.16,187.20000000000002
+2024-06-12,Rye,Train Station,17,3.59,61.03
+2024-12-22,Sourdough,Downtown,17,3.79,64.43
+2024-07-10,White,Suburb,49,4.61,225.89000000000001
+2024-08-14,Sourdough,Suburb,33,3.53,116.49
+2024-06-25,White,Suburb,32,3.71,118.72
+2024-04-08,Whole Wheat,Airport,8,2.05,16.4
+2024-02-05,Baguette,Train Station,19,3.16,60.040000000000006
+2024-04-05,White,Airport,38,4.01,152.38
+2024-05-31,Sourdough,Mall,3,2.45,7.3500000000000005
+2024-05-30,Rye,Suburb,5,2.21,11.05
+2024-07-08,White,Mall,13,2.6,33.800000000000004
+2024-08-11,Baguette,Downtown,47,2.35,110.45
+2024-02-06,White,Downtown,46,2.25,103.5
+2024-09-24,Multigrain,Airport,31,2.99,92.69000000000001
+2024-07-01,Rye,Train Station,16,4.68,74.88
+2024-01-13,Baguette,Mall,32,3.27,104.64
+2024-10-05,Baguette,Train Station,22,2.16,47.52
+2024-08-04,Whole Wheat,Airport,29,1.77,51.33
+2024-12-20,Sourdough,Downtown,22,3.94,86.67999999999999
+2024-12-26,Whole Wheat,Train Station,43,2.84,122.11999999999999
+2024-10-12,Baguette,Train Station,3,4.38,13.14
+2024-09-29,Rye,Downtown,10,3.81,38.1
+2024-03-02,White,Mall,42,4.29,180.18
+2024-03-24,White,Downtown,21,2.45,51.45
+2024-08-04,Rye,Train Station,16,3.92,62.72
+2024-12-07,Baguette,Mall,12,2.42,29.04
+2024-07-05,White,Mall,2,4.79,9.58
+2024-01-19,White,Downtown,41,3.73,152.93
+2024-06-25,White,Train Station,24,2.64,63.36
+2024-04-09,Sourdough,Airport,35,2.44,85.39999999999999
+2024-08-20,Sourdough,Train Station,30,2.17,65.1
+2024-03-16,Multigrain,Suburb,30,3.93,117.9
+2024-09-21,Whole Wheat,Airport,47,2.27,106.69
+2024-10-10,Rye,Mall,35,3.58,125.3
+2024-07-24,Rye,Airport,19,2.43,46.17
+2024-08-10,Rye,Mall,8,3.82,30.56
+2024-02-21,Multigrain,Mall,26,4.35,113.1
+2024-12-04,Sourdough,Airport,49,4.22,206.78
+2024-05-23,Baguette,Mall,40,4.16,166.4
+2024-03-09,Baguette,Mall,7,2.16,15.120000000000001
+2024-04-08,Multigrain,Suburb,30,1.81,54.300000000000004
+2024-01-25,Baguette,Train Station,7,3.95,27.650000000000002
+2024-02-22,Rye,Train Station,3,2.79,8.370000000000001
+2024-05-30,Whole Wheat,Suburb,1,3.01,3.01
+2024-05-23,White,Airport,36,1.61,57.96
+2024-02-26,Sourdough,Downtown,25,2.41,60.25
+2024-02-08,Sourdough,Downtown,37,1.62,59.940000000000005
+2024-04-18,Multigrain,Downtown,1,4.58,4.58
+2024-06-29,Sourdough,Suburb,15,2.35,35.25
+2024-02-11,Rye,Suburb,37,3.45,127.65
+2024-07-04,Baguette,Mall,13,1.64,21.32
+2024-08-10,Rye,Downtown,40,3.83,153.2
+2024-05-01,Multigrain,Airport,8,2.63,21.04
+2024-05-12,Rye,Airport,5,4.64,23.2
+2024-06-11,Baguette,Downtown,9,4.61,41.49
+2024-08-02,Whole Wheat,Downtown,1,2.64,2.64
+2024-08-08,Multigrain,Downtown,36,4.65,167.4
+2024-08-22,Whole Wheat,Suburb,35,4.99,174.65
+2024-11-26,White,Suburb,2,4.39,8.78
+2024-05-25,Whole Wheat,Suburb,40,4.46,178.4
+2024-08-26,White,Train Station,23,2.37,54.510000000000005
+2024-03-16,White,Airport,9,3.52,31.68
+2024-01-09,Whole Wheat,Airport,34,1.74,59.16
+2024-03-14,Multigrain,Mall,46,1.83,84.18
+2024-09-09,Baguette,Suburb,14,5.0,70.0
+2024-08-17,Rye,Train Station,4,2.64,10.56
+2024-01-07,Rye,Train Station,30,4.12,123.60000000000001
+2024-06-22,Baguette,Airport,31,4.32,133.92000000000002
+2024-05-20,White,Suburb,38,4.5,171.0
+2024-06-16,White,Mall,11,4.99,54.89
+2024-06-18,Multigrain,Suburb,35,2.35,82.25
+2024-10-09,Sourdough,Downtown,8,1.64,13.12
+2024-05-01,Whole Wheat,Suburb,3,2.94,8.82
+2024-07-12,White,Downtown,14,1.96,27.439999999999998
+2024-01-05,Rye,Downtown,13,1.58,20.54
+2024-01-29,Multigrain,Mall,45,2.76,124.19999999999999
+2024-06-13,Whole Wheat,Airport,32,4.24,135.68
+2024-12-04,Multigrain,Suburb,34,3.48,118.32
+2024-05-15,Whole Wheat,Downtown,45,2.59,116.55
+2024-12-30,Whole Wheat,Suburb,19,3.79,72.01
+2024-11-16,Baguette,Airport,38,2.31,87.78
+2024-12-07,White,Airport,16,1.55,24.8
+2024-05-24,Multigrain,Train Station,2,4.18,8.36
+2024-11-22,Multigrain,Airport,40,3.68,147.20000000000002
+2024-08-04,Baguette,Mall,17,4.17,70.89
+2024-10-27,Rye,Downtown,34,1.64,55.76
+2024-05-11,Rye,Train Station,42,4.43,186.06
+2024-10-18,White,Mall,16,3.67,58.72
+2024-03-10,White,Suburb,38,3.47,131.86
+2024-09-08,Sourdough,Downtown,2,3.69,7.38
+2024-10-01,Baguette,Airport,2,4.53,9.06
+2024-12-29,Rye,Downtown,26,3.55,92.3
+2024-06-30,Whole Wheat,Suburb,13,3.53,45.89
+2024-06-15,Multigrain,Train Station,47,4.97,233.58999999999997
+2024-03-31,White,Train Station,31,4.15,128.65
+2024-07-20,Multigrain,Train Station,34,3.05,103.69999999999999
+2024-12-11,Multigrain,Airport,39,3.98,155.22
+2024-01-19,Sourdough,Mall,3,2.86,8.58
+2024-02-08,Rye,Mall,8,2.3,18.4
+2024-05-05,White,Downtown,23,3.59,82.57
+2024-06-21,Multigrain,Airport,14,4.75,66.5
+2024-05-20,White,Train Station,27,4.75,128.25
+2024-08-29,Whole Wheat,Train Station,29,2.7,78.30000000000001
+2024-08-07,Sourdough,Suburb,39,3.35,130.65
+2024-05-05,Whole Wheat,Suburb,39,2.24,87.36000000000001
+2024-02-27,White,Train Station,1,4.98,4.98
+2024-05-27,White,Train Station,17,4.93,83.81
+2024-11-12,Rye,Airport,41,3.77,154.57
+2024-12-26,Multigrain,Mall,30,4.32,129.60000000000002
+2024-01-01,Multigrain,Suburb,13,4.0,52.0
+2024-12-13,Whole Wheat,Mall,21,3.58,75.18
+2024-07-08,Sourdough,Airport,19,1.69,32.11
+2024-07-09,Baguette,Train Station,19,3.09,58.709999999999994
+2024-11-07,Multigrain,Mall,25,3.86,96.5
+2024-04-26,Rye,Train Station,22,3.87,85.14
+2024-05-13,Whole Wheat,Train Station,31,2.81,87.11
+2024-02-27,Whole Wheat,Downtown,17,4.8,81.6
+2024-02-13,Baguette,Mall,23,2.09,48.06999999999999
+2024-06-21,Rye,Mall,32,3.25,104.0
+2024-06-08,Sourdough,Train Station,10,3.92,39.2
+2024-06-21,Rye,Airport,10,3.94,39.4
+2024-11-12,Sourdough,Downtown,36,3.77,135.72
+2024-10-29,Rye,Train Station,8,2.46,19.68
+2024-05-28,Rye,Suburb,20,2.05,41.0
+2024-03-20,White,Suburb,32,3.73,119.36
+2024-07-31,Whole Wheat,Downtown,14,3.6,50.4
+2024-07-21,Rye,Airport,28,2.13,59.64
+2024-09-08,Baguette,Train Station,46,3.97,182.62
+2024-08-16,Rye,Mall,24,3.09,74.16
+2024-06-12,Multigrain,Downtown,15,3.84,57.599999999999994
+2024-08-14,Whole Wheat,Airport,22,4.43,97.46
+2024-05-26,Multigrain,Mall,30,2.09,62.699999999999996
+2024-01-20,Whole Wheat,Suburb,4,1.57,6.28
+2024-02-16,Multigrain,Suburb,13,4.23,54.99000000000001
+2024-08-20,Rye,Mall,23,3.63,83.49
+2024-10-31,Rye,Downtown,8,3.95,31.6
+2024-01-14,White,Suburb,18,4.43,79.74
+2024-05-22,Baguette,Train Station,12,4.31,51.72
+2024-01-01,Multigrain,Mall,31,4.86,150.66
+2024-02-23,Sourdough,Mall,14,3.38,47.32
+2024-09-15,White,Suburb,34,3.21,109.14
+2024-05-23,Multigrain,Downtown,18,2.91,52.38
+2024-01-12,Multigrain,Train Station,34,2.04,69.36
+2024-11-25,White,Downtown,11,3.5,38.5
+2024-08-11,Rye,Airport,41,2.47,101.27000000000001
+2024-09-28,Multigrain,Airport,12,4.72,56.64
+2024-12-23,Rye,Suburb,49,3.54,173.46
+2024-06-04,White,Suburb,15,3.57,53.55
+2024-01-08,Rye,Suburb,31,2.74,84.94000000000001
+2024-05-01,Whole Wheat,Airport,49,1.68,82.32
+2024-12-13,Sourdough,Downtown,29,1.61,46.690000000000005
+2024-06-12,Multigrain,Downtown,26,2.98,77.48
+2024-03-30,Baguette,Suburb,18,1.8,32.4
+2024-05-15,Sourdough,Train Station,32,3.62,115.84
+2024-07-04,Rye,Downtown,22,4.58,100.76
+2024-11-11,Multigrain,Airport,38,4.59,174.42
+2024-06-26,Rye,Mall,17,3.81,64.77
+2024-01-28,Whole Wheat,Mall,23,2.24,51.52
+2024-08-07,White,Mall,24,4.52,108.47999999999999
+2024-12-22,Multigrain,Train Station,8,4.6,36.8
+2024-02-10,Whole Wheat,Suburb,41,2.19,89.78999999999999
+2024-08-15,Whole Wheat,Airport,6,4.08,24.48
+2024-07-10,Multigrain,Train Station,5,2.5,12.5
+2024-05-24,Rye,Airport,44,4.31,189.64
+2024-07-19,Baguette,Airport,29,4.99,144.71
+2024-07-30,Whole Wheat,Suburb,28,1.61,45.080000000000005
+2024-08-07,Sourdough,Mall,11,4.64,51.04
+2024-08-27,Whole Wheat,Suburb,1,3.68,3.68
+2024-02-15,Baguette,Train Station,43,4.91,211.13
+2024-02-04,Rye,Train Station,19,3.13,59.47
+2024-09-09,Rye,Train Station,9,4.47,40.23
+2024-03-22,Sourdough,Suburb,27,1.72,46.44
+2024-09-12,Whole Wheat,Airport,34,2.67,90.78
+2024-07-15,Rye,Airport,44,1.73,76.12
+2024-10-29,Baguette,Downtown,4,4.91,19.64
+2024-01-10,Multigrain,Train Station,36,4.36,156.96
+2024-11-07,White,Airport,18,4.48,80.64000000000001
+2024-10-12,White,Downtown,15,4.78,71.7
+2024-08-29,White,Airport,13,1.8,23.400000000000002
+2024-09-07,Whole Wheat,Train Station,19,2.85,54.15
+2024-12-30,Sourdough,Mall,49,1.75,85.75
+2024-01-05,Rye,Train Station,6,2.24,13.440000000000001
+2024-04-28,Multigrain,Suburb,48,2.3,110.39999999999999
+2024-10-15,Baguette,Airport,12,3.14,37.68
+2024-03-05,Multigrain,Airport,37,2.44,90.28
+2024-05-25,Baguette,Suburb,17,1.85,31.450000000000003
+2024-08-11,Whole Wheat,Suburb,23,2.09,48.06999999999999
+2024-08-26,White,Mall,26,2.02,52.52
+2024-06-25,Whole Wheat,Airport,29,4.91,142.39000000000001
+2024-09-23,Sourdough,Airport,33,4.16,137.28
+2024-12-06,Sourdough,Mall,27,4.89,132.03
+2024-10-08,Baguette,Downtown,25,3.04,76.0
+2024-03-03,Rye,Mall,10,2.47,24.700000000000003
+2024-08-04,Rye,Train Station,47,4.29,201.63
+2024-12-07,Baguette,Airport,23,2.64,60.720000000000006
+2024-11-10,Sourdough,Suburb,21,2.55,53.55
+2024-10-09,Sourdough,Train Station,21,2.31,48.51
+2024-06-25,Sourdough,Airport,43,1.95,83.85
+2024-04-07,Whole Wheat,Mall,13,2.4,31.2
+2024-04-14,Sourdough,Train Station,37,2.74,101.38000000000001
+2024-04-08,Multigrain,Airport,33,3.86,127.38
+2024-11-06,White,Downtown,24,1.72,41.28
+2024-01-06,Sourdough,Downtown,44,2.24,98.56
+2024-07-15,Baguette,Suburb,11,4.33,47.63
+2024-12-16,White,Airport,17,2.01,34.169999999999995
+2024-05-12,Whole Wheat,Downtown,4,2.7,10.8
+2024-12-23,Baguette,Mall,47,4.53,212.91000000000003
+2024-09-15,White,Airport,25,2.04,51.0
+2024-01-23,Baguette,Mall,30,1.79,53.7
+2024-02-22,Whole Wheat,Mall,9,3.2,28.8
+2024-06-13,Multigrain,Downtown,21,2.56,53.76
+2024-07-20,Whole Wheat,Airport,20,3.47,69.4
+2024-03-23,Whole Wheat,Train Station,19,4.31,81.88999999999999
+2024-05-24,Baguette,Downtown,19,1.98,37.62
+2024-03-25,Rye,Downtown,12,3.53,42.36
+2024-03-18,Sourdough,Airport,37,3.27,120.99
+2024-12-31,Sourdough,Airport,42,2.0,84.0
+2024-01-01,Multigrain,Mall,17,3.68,62.56
+2024-02-20,Multigrain,Airport,37,2.46,91.02
+2024-06-21,Sourdough,Mall,48,3.21,154.07999999999998
+2024-07-23,Rye,Downtown,39,1.79,69.81
+2024-09-16,Sourdough,Suburb,28,3.11,87.08
+2024-10-14,Rye,Train Station,41,2.57,105.36999999999999
+2024-02-03,Multigrain,Downtown,35,4.38,153.29999999999998
+2024-12-13,White,Airport,47,1.7,79.89999999999999
+2024-04-04,Baguette,Train Station,48,2.97,142.56
+2024-03-12,Multigrain,Suburb,18,3.1,55.800000000000004
+2024-02-08,Multigrain,Suburb,14,4.04,56.56
+2024-06-02,Whole Wheat,Mall,35,3.51,122.85
+2024-09-06,Whole Wheat,Train Station,44,3.84,168.95999999999998
+2024-06-10,Whole Wheat,Mall,41,4.22,173.01999999999998
+2024-04-27,Baguette,Downtown,7,4.52,31.639999999999997
+2024-09-15,Whole Wheat,Train Station,41,2.6,106.60000000000001
+2024-11-01,Rye,Downtown,13,3.38,43.94
+2024-09-24,Sourdough,Mall,18,4.44,79.92
+2024-02-23,White,Train Station,37,4.96,183.52
+2024-08-23,Multigrain,Mall,13,4.61,59.93000000000001
+2024-08-09,Rye,Train Station,36,2.8,100.8
+2024-09-07,White,Mall,31,2.18,67.58
+2024-11-08,Rye,Suburb,2,3.21,6.42
+2024-04-21,Rye,Mall,16,4.1,65.6
+2024-09-11,Multigrain,Suburb,9,3.22,28.98
+2024-10-29,Sourdough,Mall,9,3.19,28.71
+2024-07-25,Whole Wheat,Train Station,38,4.43,168.33999999999997
+2024-08-16,Baguette,Train Station,11,2.76,30.36
+2024-12-06,Sourdough,Train Station,22,4.51,99.22
+2024-03-06,Baguette,Airport,33,2.92,96.36
+2024-03-15,Multigrain,Downtown,36,2.65,95.39999999999999
+2024-04-12,Multigrain,Train Station,45,3.09,139.04999999999998
+2024-07-10,Multigrain,Suburb,23,4.17,95.91
+2024-09-08,White,Train Station,45,1.94,87.3
+2024-08-13,Baguette,Airport,45,2.19,98.55
+2024-10-20,Sourdough,Suburb,34,4.83,164.22
+2024-11-01,Sourdough,Airport,9,2.11,18.99
+2024-04-07,Rye,Suburb,24,3.49,83.76
+2024-12-03,Rye,Mall,8,3.53,28.24
+2024-10-12,Rye,Downtown,7,3.21,22.47
+2024-11-30,Multigrain,Downtown,36,3.76,135.35999999999999
+2024-12-12,Sourdough,Airport,18,2.3,41.4
+2024-11-03,Baguette,Downtown,3,3.43,10.290000000000001
+2024-09-05,Multigrain,Airport,28,2.8,78.39999999999999
+2024-06-14,White,Airport,6,3.82,22.919999999999998
+2024-11-30,Rye,Airport,44,1.99,87.56
+2024-01-30,Multigrain,Downtown,44,3.5,154.0
+2024-09-03,Multigrain,Airport,21,2.15,45.15
+2024-04-15,White,Downtown,28,2.48,69.44
+2024-02-20,Whole Wheat,Airport,40,2.27,90.8
+2024-03-21,Sourdough,Train Station,1,2.14,2.14
+2024-05-12,Baguette,Airport,36,4.39,158.04
+2024-10-11,Whole Wheat,Suburb,21,2.5,52.5
+2024-05-17,Rye,Airport,43,4.74,203.82000000000002
+2024-07-02,Multigrain,Mall,35,4.89,171.14999999999998
+2024-11-25,White,Airport,13,3.5,45.5
+2024-09-29,White,Suburb,49,2.0,98.0
+2024-12-05,Sourdough,Suburb,10,2.81,28.1
+2024-03-09,Whole Wheat,Downtown,44,4.29,188.76
+2024-02-03,Sourdough,Train Station,47,2.79,131.13
+2024-09-18,Multigrain,Airport,10,1.8,18.0
+2024-02-22,Sourdough,Downtown,46,3.45,158.70000000000002
+2024-07-23,Baguette,Train Station,13,4.46,57.98
+2024-05-05,White,Airport,37,4.29,158.73
+2024-08-22,White,Mall,38,2.11,80.17999999999999
+2024-02-12,Rye,Airport,24,3.85,92.4
+2024-08-27,Rye,Suburb,2,2.27,4.54
+2024-04-20,Multigrain,Suburb,22,2.26,49.72
+2024-09-05,Baguette,Mall,17,4.56,77.52
+2024-05-30,Whole Wheat,Downtown,36,2.37,85.32000000000001
+2024-07-01,Sourdough,Train Station,14,2.42,33.879999999999995
+2024-12-01,Multigrain,Airport,10,1.5,15.0
+2024-04-04,Rye,Suburb,35,4.55,159.25
+2024-01-08,Sourdough,Downtown,25,4.27,106.74999999999999
+2024-12-25,Rye,Mall,3,3.7,11.100000000000001
+2024-07-02,Sourdough,Suburb,47,4.13,194.10999999999999
+2024-10-07,Whole Wheat,Mall,38,2.03,77.13999999999999
+2024-07-13,Multigrain,Airport,17,3.1,52.7
+2024-12-17,Sourdough,Train Station,12,2.73,32.76
+2024-07-13,Baguette,Suburb,24,1.83,43.92
+2024-06-03,White,Suburb,29,3.2,92.80000000000001
+2024-04-02,Baguette,Airport,43,4.72,202.95999999999998
+2024-06-08,Baguette,Downtown,25,1.64,41.0
+2024-03-01,White,Train Station,36,2.52,90.72
+2024-05-01,Baguette,Suburb,26,2.23,57.98
+2024-02-20,Sourdough,Train Station,38,2.33,88.54
+2024-10-03,Sourdough,Suburb,1,4.68,4.68
+2024-01-05,Sourdough,Train Station,20,3.14,62.800000000000004
+2024-04-01,White,Mall,28,3.13,87.64
+2024-06-18,Baguette,Suburb,16,4.16,66.56
+2024-11-12,White,Train Station,47,2.04,95.88
+2024-01-22,Sourdough,Downtown,17,3.21,54.57
+2024-11-21,Baguette,Mall,40,3.0,120.0
+2024-01-01,Baguette,Mall,28,3.59,100.52
+2024-05-12,Rye,Downtown,12,5.0,60.0
+2024-08-20,Rye,Train Station,27,4.19,113.13000000000001
+2024-01-12,Whole Wheat,Airport,42,2.89,121.38000000000001
+2024-12-11,Multigrain,Downtown,47,4.4,206.8
+2024-02-15,Rye,Train Station,30,2.1,63.0
+2024-02-03,White,Downtown,41,1.61,66.01
+2024-03-18,Rye,Downtown,34,2.22,75.48
+2024-08-05,Whole Wheat,Suburb,37,2.69,99.53
+2024-10-27,Baguette,Train Station,6,3.29,19.740000000000002
+2024-03-13,Whole Wheat,Airport,7,3.65,25.55
+2024-10-08,Baguette,Suburb,32,4.69,150.08
+2024-09-05,Baguette,Downtown,32,3.28,104.96
+2024-02-16,Multigrain,Downtown,25,3.25,81.25
+2024-04-30,Rye,Downtown,33,1.68,55.44
+2024-08-01,White,Train Station,7,1.62,11.34
+2024-08-26,White,Train Station,12,3.43,41.160000000000004
+2024-02-25,Sourdough,Suburb,16,3.03,48.48
+2024-12-15,Baguette,Airport,16,4.44,71.04
+2024-04-16,White,Suburb,43,2.06,88.58
+2024-11-14,Multigrain,Mall,36,1.59,57.24
+2024-02-17,Baguette,Downtown,13,3.07,39.91
+2024-03-01,Multigrain,Downtown,7,2.33,16.310000000000002
+2024-12-02,White,Downtown,36,1.67,60.12
+2024-01-26,White,Suburb,47,4.04,189.88
+2024-10-18,Sourdough,Suburb,9,1.89,17.009999999999998
+2024-09-13,White,Downtown,32,3.63,116.16
+2024-01-08,Baguette,Suburb,11,2.48,27.28
+2024-04-22,Baguette,Train Station,8,2.11,16.88
+2024-12-20,Baguette,Train Station,33,2.83,93.39
+2024-09-09,Sourdough,Suburb,23,4.31,99.13
+2024-06-28,Sourdough,Downtown,25,2.87,71.75
+2024-07-25,White,Suburb,8,4.13,33.04
+2024-10-29,Whole Wheat,Suburb,45,1.94,87.3
+2024-05-06,Whole Wheat,Suburb,22,4.2,92.4
+2024-02-25,Sourdough,Mall,4,2.33,9.32
+2024-08-01,White,Train Station,40,3.87,154.8
+2024-01-14,Whole Wheat,Airport,3,3.48,10.44
+2024-01-28,White,Airport,29,4.75,137.75
+2024-03-18,White,Mall,41,2.86,117.25999999999999
+2024-08-03,White,Suburb,29,1.73,50.17
+2024-12-30,Rye,Mall,34,1.57,53.38
+2024-06-02,Baguette,Mall,34,4.39,149.26
+2024-01-14,White,Downtown,28,3.34,93.52
+2024-07-05,Rye,Train Station,13,4.21,54.73
+2024-11-07,Sourdough,Airport,15,2.32,34.8
+2024-01-07,Whole Wheat,Suburb,23,2.71,62.33
+2024-01-03,Baguette,Airport,44,1.61,70.84
+2024-04-20,Whole Wheat,Airport,26,4.87,126.62
+2024-08-25,Baguette,Train Station,4,3.84,15.36
+2024-12-28,Whole Wheat,Airport,26,4.77,124.01999999999998
+2024-08-26,Baguette,Airport,40,2.43,97.2
+2024-09-30,Whole Wheat,Mall,9,3.64,32.76
+2024-10-20,Whole Wheat,Train Station,5,3.87,19.35
+2024-08-14,Whole Wheat,Downtown,32,2.61,83.52
+2024-01-15,Whole Wheat,Suburb,20,4.47,89.39999999999999
+2024-07-10,Sourdough,Airport,11,4.82,53.02
+2024-04-28,White,Suburb,15,4.6,69.0
+2024-01-28,Multigrain,Downtown,32,4.09,130.88
+2024-07-20,Rye,Suburb,28,2.47,69.16000000000001
+2024-02-08,Multigrain,Downtown,22,2.49,54.78
+2024-09-29,Multigrain,Mall,41,4.87,199.67000000000002
+2024-08-18,Baguette,Airport,17,1.54,26.18
+2024-03-26,White,Downtown,26,4.01,104.25999999999999
+2024-05-05,Baguette,Suburb,44,3.97,174.68
+2024-10-26,White,Airport,7,3.68,25.76
+2024-01-25,White,Mall,42,4.97,208.73999999999998
+2024-05-24,Whole Wheat,Airport,26,2.59,67.34
+2024-01-13,Sourdough,Downtown,25,2.69,67.25
+2024-07-30,Whole Wheat,Mall,10,1.78,17.8
+2024-01-25,Sourdough,Suburb,45,3.05,137.25
+2024-03-08,Baguette,Mall,19,2.41,45.790000000000006
+2024-03-07,Sourdough,Mall,11,2.7,29.700000000000003
+2024-08-20,Baguette,Train Station,13,4.42,57.46
+2024-04-18,Multigrain,Mall,8,4.77,38.16
+2024-05-25,Multigrain,Mall,40,2.15,86.0
+2024-04-20,Sourdough,Airport,4,2.8,11.2
+2024-08-15,Sourdough,Suburb,47,4.75,223.25
+2024-04-20,Baguette,Airport,31,1.72,53.32
+2024-02-03,Whole Wheat,Airport,28,1.82,50.96
+2024-04-20,Baguette,Downtown,11,2.07,22.77
+2024-09-20,Whole Wheat,Airport,43,3.58,153.94
+2024-08-23,Multigrain,Train Station,1,2.03,2.03
+2024-03-23,White,Train Station,49,4.89,239.60999999999999
+2024-02-11,Sourdough,Downtown,47,3.06,143.82
+2024-04-10,Whole Wheat,Suburb,38,3.26,123.88
+2024-01-06,Baguette,Suburb,24,2.36,56.64
+2024-06-28,Multigrain,Airport,47,3.15,148.04999999999998
+2024-10-08,Whole Wheat,Airport,31,3.82,118.42
+2024-11-15,Baguette,Airport,41,4.13,169.32999999999998
+2024-08-13,Sourdough,Suburb,46,4.14,190.44
+2024-11-10,Sourdough,Mall,26,3.52,91.52
+2024-12-30,Rye,Train Station,49,4.67,228.82999999999998
+2024-08-16,White,Mall,5,4.36,21.8
+2024-10-15,Rye,Mall,20,4.15,83.0
+2024-05-29,Multigrain,Suburb,41,1.69,69.28999999999999
+2024-10-03,Whole Wheat,Mall,11,1.52,16.72
+2024-07-16,Multigrain,Downtown,33,2.24,73.92
+2024-03-10,Baguette,Airport,38,3.82,145.16
+2024-04-21,Sourdough,Downtown,27,2.94,79.38
+2024-01-04,Rye,Train Station,34,2.91,98.94
+2024-12-15,Rye,Airport,15,4.6,69.0
+2024-11-26,Rye,Mall,32,4.63,148.16
+2024-11-13,Multigrain,Train Station,21,4.68,98.28
+2024-12-15,Sourdough,Airport,46,2.6,119.60000000000001
+2024-04-04,Whole Wheat,Mall,5,3.92,19.6
+2024-05-31,Baguette,Downtown,6,2.45,14.700000000000001
+2024-11-06,Whole Wheat,Airport,38,2.17,82.46
+2024-05-16,Multigrain,Mall,22,2.15,47.3
+2024-09-03,Baguette,Downtown,18,2.7,48.6
+2024-08-30,Rye,Train Station,14,3.0,42.0
+2024-01-31,White,Train Station,10,4.41,44.1
+2024-02-09,Multigrain,Train Station,46,1.92,88.32
+2024-08-16,Multigrain,Train Station,13,4.07,52.910000000000004
+2024-02-05,Sourdough,Suburb,31,3.36,104.16
+2024-08-10,Whole Wheat,Airport,30,2.51,75.3
+2024-01-06,Multigrain,Airport,3,3.22,9.66
+2024-11-17,Multigrain,Suburb,30,2.55,76.5
+2024-08-07,Rye,Mall,6,3.59,21.54
+2024-03-15,Rye,Mall,29,3.02,87.58
+2024-01-04,Baguette,Train Station,8,2.08,16.64
+2024-11-30,White,Downtown,44,1.91,84.03999999999999
+2024-05-13,Sourdough,Mall,45,3.41,153.45000000000002
+2024-04-27,White,Downtown,43,4.66,200.38
+2024-04-03,Baguette,Airport,44,2.7,118.80000000000001
+2024-03-02,Rye,Downtown,33,4.07,134.31
+2024-07-12,Whole Wheat,Airport,17,3.81,64.77
+2024-11-30,Rye,Suburb,48,4.76,228.48
+2024-07-21,Sourdough,Suburb,11,4.37,48.07
+2024-01-26,Rye,Train Station,13,3.48,45.24
+2024-06-21,Sourdough,Mall,11,3.8,41.8
+2024-10-26,Sourdough,Train Station,31,4.64,143.84
+2024-05-12,Sourdough,Airport,28,2.9,81.2
+2024-11-21,Baguette,Train Station,44,2.64,116.16000000000001
+2024-04-27,Sourdough,Downtown,6,1.54,9.24
+2024-11-19,Sourdough,Airport,41,4.39,179.98999999999998
+2024-10-01,Whole Wheat,Suburb,16,4.3,68.8
+2024-07-30,White,Mall,4,1.87,7.48
+2024-08-12,Multigrain,Airport,35,3.52,123.2
+2024-01-20,White,Airport,48,3.12,149.76
+2024-04-22,Sourdough,Downtown,26,1.92,49.92
+2024-05-19,Whole Wheat,Mall,12,4.93,59.16
+2024-02-16,Rye,Suburb,11,2.25,24.75
+2024-01-01,Whole Wheat,Airport,37,1.74,64.38
+2024-03-30,Sourdough,Airport,25,3.58,89.5
+2024-05-21,Whole Wheat,Downtown,18,4.09,73.62
+2024-11-15,Whole Wheat,Train Station,19,1.61,30.590000000000003
+2024-02-07,Sourdough,Suburb,23,3.81,87.63
+2024-10-19,Baguette,Mall,38,3.36,127.67999999999999
+2024-05-18,Whole Wheat,Airport,18,1.86,33.480000000000004
